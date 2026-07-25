@@ -1,20 +1,83 @@
 # ADR-019: LLM Provider
 
 ## Status
+
 Proposed
 
-## Context
-This ADR documents the LLM (Large Language Model) provider decision for the Genesis project.
+---
+
+## Date
+
+YYYY-MM-DD
+
+---
+
+## Problem Statement
+
+What engineering problem are we trying to solve?
+
+---
+
+## Requirements
+
+What requirements must this decision satisfy?
+
+---
+
+## Options Considered
+
+1.
+2.
+3.
+
+---
 
 ## Decision
-We have decided to use the following LLM provider:
-- [To be determined]
+
+Pending Architecture Review
+
+---
+
+## Rationale
+
+Why was this option selected?
+
+---
+
+## Trade-offs
+
+Advantages
+
+Disadvantages
+
+---
 
 ## Consequences
-- [To be documented]
 
-## Alternatives Considered
-- [To be documented]
+Positive
+
+Negative
+
+Future Impact
+
+---
+
+## Future Considerations
+
+When should this decision be revisited?
+
+---
+
+## Interview Questions
+
+-
+
+-
+
+-
+
+---
 
 ## References
-- [To be added]
+
+-

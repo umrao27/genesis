@@ -1,20 +1,83 @@
 # ADR-022: Message Queue
 
 ## Status
+
 Proposed
 
-## Context
-This ADR documents the message queue decision for the Genesis project.
+---
+
+## Date
+
+YYYY-MM-DD
+
+---
+
+## Problem Statement
+
+What engineering problem are we trying to solve?
+
+---
+
+## Requirements
+
+What requirements must this decision satisfy?
+
+---
+
+## Options Considered
+
+1.
+2.
+3.
+
+---
 
 ## Decision
-We have decided to use the following message queue:
-- [To be determined]
+
+Pending Architecture Review
+
+---
+
+## Rationale
+
+Why was this option selected?
+
+---
+
+## Trade-offs
+
+Advantages
+
+Disadvantages
+
+---
 
 ## Consequences
-- [To be documented]
 
-## Alternatives Considered
-- [To be documented]
+Positive
+
+Negative
+
+Future Impact
+
+---
+
+## Future Considerations
+
+When should this decision be revisited?
+
+---
+
+## Interview Questions
+
+-
+
+-
+
+-
+
+---
 
 ## References
-- [To be added]
+
+-
