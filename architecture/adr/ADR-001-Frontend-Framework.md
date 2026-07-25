@@ -1,4 +1,4 @@
-# ADR-001: Should Genesis use Next.js as its Frontend Framework?
+# Should Genesis use Next.js as its Frontend Framework?
 
 ## Status
 
