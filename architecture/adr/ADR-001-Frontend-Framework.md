@@ -57,23 +57,23 @@ The frontend framework should provide:
 
 # Options Considered
 
-## Option 1
+### Option 1
 
 React SPA
 
-## Option 2
+### Option 2
 
 Next.js
 
-## Option 3
+### Option 3
 
 Angular
 
-## Option 4
+### Option 4
 
 Vue.js
 
-## Option 5
+### Option 5
 
 SvelteKit
 
