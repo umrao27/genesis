@@ -1,16 +1,26 @@
-//Root/master Layout
+import type { Metadata } from "next";
+import "@/styles/globals.css";
+import { Geist } from "next/font/google";
+import { cn } from "@/lib/utils";
 
+const geist = Geist({subsets:['latin'],variable:'--font-sans'});
 
-/**Header
+export const metadata: Metadata = {
+	title: {
+		default: "Genesis",
+		template: "%s | Genesis",
+	},
+	description: "A workspace for modern teams.",
+};
 
-↓
-
-Sidebar
-
-↓
-
-Page Content
-
-↓
-
-Footer*/
+export default function RootLayout({
+	children,
+}: Readonly<{
+	children: React.ReactNode;
+}>) {
+	return (
+		<html lang="en" className={cn("font-sans", geist.variable)}>
+			<body>{children}</body>
+		</html>
+	);
+}
